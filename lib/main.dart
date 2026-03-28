@@ -61,7 +61,7 @@ class _PraktikumPageState extends State<PraktikumPage> {
           Container(
             height: 200,
             width: double.infinity,
-            color: _showImage ? Colors.transparent : Colors.grey,
+            color: _showImage ? Colors.transparent : Colors.brown,
             child: _showImage
                 ? Image.asset(
                     'assets/sanger.jpg', // pastikan ada di assets

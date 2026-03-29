@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'form_page.dart';
 
 void main() {
   runApp(const PraktikumApp());
@@ -98,6 +99,15 @@ class _PraktikumPageState extends State<PraktikumPage> {
                   );
                 },
                 child: const Text("Tombol Lain"),
+              ),
+              ElevatedButton(
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => const FormPage()),
+                  );
+                },
+                child: const Text("Tombol Tugas 3"),
               ),
             ],
           ),

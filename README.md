@@ -9,7 +9,7 @@
 <img width="500" height="622" alt="image" src="https://github.com/user-attachments/assets/f3c4865e-0963-4794-a10c-af22f98b9fb3" />
 
 ## Tugas 3:
-### tampilan Layouts → Column:
+### tampilan Layouts → Row:
 <img width="497" height="712" alt="image" src="https://github.com/user-attachments/assets/a293f07a-c550-4367-afa2-b82b9ac97796" />
 
 ### tampilan Layouts → Column:
